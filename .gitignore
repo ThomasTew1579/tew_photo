@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+.env.*
+*.log
+
+# Photos déposées localement (non versionnées)
+public/photos/*
+!public/photos/.gitkeep
