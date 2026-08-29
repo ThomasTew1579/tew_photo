@@ -5365,7 +5365,7 @@
     },
     {
       "id": "photo-1787502893616-71qu8h",
-      "filename": "gueules_de_bois_equipe_benevoles/DSC02896.jpg",
+      "filename": "admin/DSC02896.jpg",
       "createdAt": "2026-08-23T15:18:11.710Z",
       "size": 2535325,
       "width": 6000,
@@ -5374,7 +5374,7 @@
       "orientation": "landscape",
       "favorite": false,
       "textTagIds": [],
-      "albumId": "album-1787504566561-srmcd4",
+      "albumId": "album-admin",
       "rotation": 0,
       "locationCustom": false
     },
@@ -17397,7 +17397,8 @@
       "textTagIds": [],
       "photoIds": [
         "photo-1784203029767-p68d5g",
-        "photo-1784203086873-e4bhjs"
+        "photo-1784203086873-e4bhjs",
+        "photo-1787502893616-71qu8h"
       ],
       "coverPhotoId": null,
       "createdAt": "2026-07-16T11:57:07.177Z"
@@ -17608,42 +17609,6 @@
       "createdAt": "2026-07-16T14:55:51.239Z"
     },
     {
-      "id": "album-1784553504527-9or8p0",
-      "title": "18 Juillet",
-      "subtitle": "",
-      "description": "",
-      "eventDate": "20/07/2026",
-      "url": "18_juillet",
-      "hiddenFromArchive": true,
-      "textTagIds": [],
-      "photoIds": [],
-      "coverPhotoId": null,
-      "createdAt": "2026-07-20T13:18:24.528Z",
-      "location": {
-        "country": "France",
-        "city": "Crémieu-city",
-        "place": ""
-      }
-    },
-    {
-      "id": "album-1786971184569-wub0tv",
-      "title": "30 ans Clement",
-      "subtitle": "",
-      "description": "",
-      "eventDate": "17/08/2026",
-      "url": "30_ans_clement",
-      "hiddenFromArchive": true,
-      "textTagIds": [],
-      "photoIds": [],
-      "coverPhotoId": null,
-      "createdAt": "2026-08-17T12:53:04.570Z",
-      "location": {
-        "country": "France",
-        "city": "Andelot-en-montagne",
-        "place": ""
-      }
-    },
-    {
       "id": "album-1787182225861-xtitbk",
       "title": "Abreuvoir",
       "subtitle": "Ré-ouverture de l'Abreuvoir",
@@ -17754,7 +17719,7 @@
       "description": "20,21,22 Août 2026 à Légna (39)",
       "eventDate": "23/08/2026",
       "url": "gdb_2026_bmx",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [
         "tag-1787505759055-iw1urg"
       ],
@@ -18058,7 +18023,7 @@
       "description": "",
       "eventDate": "23/08/2026",
       "url": "tagada_jones",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [
         "tag-1784206476039-h6nvqb"
       ],
@@ -18089,7 +18054,7 @@
       "description": "",
       "eventDate": "23/08/2026",
       "url": "le_reparateur",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [],
       "photoIds": [
         "photo-1787503949460-4rdrji",
@@ -18117,7 +18082,7 @@
       "description": "",
       "eventDate": "23/08/2026",
       "url": "gueules_de_bois_equipe_benevoles",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [],
       "photoIds": [
         "photo-1787503949577-90tdhf",
@@ -18192,7 +18157,6 @@
         "photo-1787502893636-k7dk67",
         "photo-1787502893779-8dhlv7",
         "photo-1787502893795-q0oowd",
-        "photo-1787502893616-71qu8h",
         "photo-1787502893598-hd5rfw",
         "photo-1787502893509-eel7ye",
         "photo-1787502893492-0fpqwi",
@@ -18207,7 +18171,7 @@
         "photo-1787503946455-czjemz",
         "photo-1787503946448-cdpoj7"
       ],
-      "coverPhotoId": "photo-1787503948425-xsux8x",
+      "coverPhotoId": "photo-1787503949390-haan9d",
       "createdAt": "2026-08-23T17:02:46.561Z"
     },
     {
@@ -18217,7 +18181,7 @@
       "description": "",
       "eventDate": "23/08/2026",
       "url": "fatal_bazooka",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [
         "tag-1784206476039-h6nvqb"
       ],
@@ -18259,7 +18223,7 @@
       "description": "",
       "eventDate": "23/08/2026",
       "url": "parabellum_hommage",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [
         "tag-1784206476039-h6nvqb"
       ],
@@ -18288,7 +18252,7 @@
       "description": "",
       "eventDate": "23/08/2026",
       "url": "dirty_fonzy",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [],
       "photoIds": [
         "photo-1787502897065-fbt10o",
@@ -18319,7 +18283,7 @@
       "description": "",
       "eventDate": "23/08/2026",
       "url": "cockney_rejects",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [
         "tag-1784206476039-h6nvqb"
       ],
@@ -18345,7 +18309,7 @@
       "description": "",
       "eventDate": "23/08/2026",
       "url": "les_tambours_du_bronx",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [
         "tag-1784206476039-h6nvqb"
       ],
@@ -18378,7 +18342,7 @@
       "description": "",
       "eventDate": "23/08/2026",
       "url": "charge_69",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [
         "tag-1784206476039-h6nvqb"
       ],
@@ -18413,7 +18377,7 @@
       "description": "",
       "eventDate": "23/08/2026",
       "url": "burning_heads",
-      "hiddenFromArchive": true,
+      "hiddenFromArchive": false,
       "textTagIds": [
         "tag-1784206476039-h6nvqb"
       ],
@@ -18694,22 +18658,14 @@
       "subtitle": "Photographie"
     },
     {
-      "type": "tutorial",
-      "id": "tutorial-1787507938059-l1pl2h",
-      "title": "Télécharger vos photos",
-      "text": "Sélectionnez vos photos favoris dans les albums, puis téléchargez-les en un clic via le panier.",
-      "buttonLabel": "Comment ça marche ?",
-      "modalTitle": "Sélection et téléchargement",
-      "modalBody": "1. Ouvrez un album depuis la page Albums.\n\n2. Cliquez sur « Sélection photos » pour activer le mode sélection, puis choisissez les images voulues ou utilisez « Sélectionner l’album » pour tout l’album.\n\n3. Validez la sélection : les photos sont ajoutées au panier (icône en haut à droite).\n\n4. Ouvrez le panier pour vérifier votre sélection, retirer des éléments si besoin, puis lancez le téléchargement ZIP.\n\n5. Le fichier ZIP contient vos photos en pleine résolution, prêtes à être enregistrées."
-    },
-    {
       "type": "featured",
       "id": "featured-1784205245034-s9jcmv",
       "albumIds": [
-        "album-1784205172393-8gu0rm",
-        "album-1784213751239-awrppm",
-        "album-1787182225861-xtitbk",
-        "album-1787506540960-mm8mn1"
+        "album-1787506540960-mm8mn1",
+        "album-1787503610823-wj4vp2",
+        "album-1787504479587-2mukpg",
+        "album-1787505104262-vxdlba",
+        "album-1787504845470-o5b4z3"
       ]
     },
     {
@@ -18733,7 +18689,7 @@
     }
   ],
   "photographer": {
-    "photo": "admin/IMG_5073.jpeg",
+    "photo": "admin/DSC02896.jpg",
     "name": "Thomas Tew",
     "email": "bytew.studio@gmail.com",
     "socials": [
